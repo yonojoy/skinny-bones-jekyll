@@ -9,6 +9,7 @@ locales:
     toc: "Table of Contents"
     written_by: "Written by"
     updated: "Updated"
+    powered_by: "powered by"
   en_US: 
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK: 
