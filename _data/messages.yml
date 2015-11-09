@@ -9,7 +9,7 @@ locales:
     toc: "Table of Contents"
     written_by: "Written by"
     updated: "Updated"
-    powered_by: "powered by"
+    powered_by:         # in our local copy "powerd by" is mentioned under Impressum, not on every page
   en_US: 
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK: 
